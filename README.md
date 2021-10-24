@@ -1,0 +1,1 @@
+This is ScotOnGithub’s first git project!
